@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Hotel Management System**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **React ,java , Spring , Spring Boot**
+- 💬 Ask me about **Angular ,java , Spring , Spring Boot**
 
 - 📫 How to reach me **manojdas88410@gmail.com**
 
